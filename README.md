@@ -3,21 +3,40 @@
 A Flutter project To Do App that can create a new To do List, Checkbox if the task is done or not, and delete the task from the local cache.
 
 ## Preview
-![image](https://github.com/nekrophantom/flutter-todo-app/assets/91788233/bbb252a9-db3d-4123-9b4c-1e6ebbaee6c8)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/91788233/238290834-bbb252a9-db3d-4123-9b4c-1e6ebbaee6c8.png" width="275" height="500">
 
-![image](https://github.com/nekrophantom/flutter-todo-app/assets/91788233/e4fa12bc-98fd-4122-b0c1-cdbbeb16f325)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/91788233/238290926-e4fa12bc-98fd-4122-b0c1-cdbbeb16f325.png" width="275" height="500">
 
-![image](https://github.com/nekrophantom/flutter-todo-app/assets/91788233/d1767d62-37b6-4380-9d79-6b71fb41ad6e)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/91788233/238291008-d1767d62-37b6-4380-9d79-6b71fb41ad6e.png" width="275" height="500">
 
-## Getting Started
+## How to Use 
 
-This project is a starting point for a Flutter application.
+**Step 1:**
 
-A few resources to get you started if this is your first Flutter project:
+Download or clone this repo by using the link below:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+https://github.com/nekrophantom/finance-ui-app.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Step 2:**
+
+Go to project root and execute the following command in terminal to get the required dependencies: 
+
+```
+flutter pub get 
+```
+
+**Step 3:**
+
+Go to project root and execute the following command in terminal to run the app: 
+
+```
+flutter run
+```
+
+or with the following command on VS Code:
+
+```
+Ctrl + f5
+```
